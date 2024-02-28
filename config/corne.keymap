@@ -35,10 +35,10 @@
             //                    | LAlt |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB         &kp N1  &kp N2  &kp N3    &kp N4  &kp N5           &kp N6     &kp N7  &kp N9    &kp N0     &trans     &kp ESC
-&kp LEFT_SHIFT  &trans  &trans  &trans    &trans  &trans           &kp N4     &kp N5  &kp N6    &kp PLUS   &kp STAR   &trans
-&kp LCTRL       &trans  &trans  &trans    &trans  &trans           &kp N1     &kp N2  &kp N3    &kp MINUS  &kp SLASH  &kp ENTER
-                                &kp LALT  &trans  &kp BACKSPACE    &kp SPACE  &kp N0  &kp RALT
+&kp TAB         &kp N1  &kp N2  &kp N3    &kp N4  &kp N5           &kp N6        &kp N7  &kp N8    &kp N9  &kp N0     &kp ESC
+&kp LEFT_SHIFT  &trans  &trans  &trans    &trans  &trans           &kp ASTERISK  &kp N4  &kp N5    &kp N6  &kp PLUS   &trans
+&kp LCTRL       &trans  &trans  &trans    &trans  &trans           &kp SLASH     &kp N1  &kp N2    &kp N3  &kp MINUS  &kp ENTER
+                                &kp LALT  &trans  &kp BACKSPACE    &kp SPACE     &kp N0  &kp RALT
             >;
         };
 
