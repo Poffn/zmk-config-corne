@@ -9,6 +9,16 @@
 #include <dt-bindings/zmk/keys.h>
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        Ctrl_Shift_Esc {
+            bindings = <&kp LC(LS(ESCAPE))>;
+            key-positions = <24 12 0>;
+            layers = <0>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
