@@ -69,7 +69,7 @@
 
         f-keys {
             bindings = <
-&kp TAB     &kp F1  &kp F2   &kp F3        &kp F4   &trans       &kp HOME       &kp UP     &kp END        &kp PAGE_UP    &trans  &trans
+&kp TILDE   &kp F1  &kp F2   &kp F3        &kp F4   &trans       &kp HOME       &kp UP     &kp END        &kp PAGE_UP    &trans  &trans
 &kp LSHIFT  &kp F5  &kp F6   &kp F7        &kp F8   &trans       &kp LEFT       &kp DOWN   &kp RIGHT      &kp PAGE_DOWN  &trans  &kp LC(LA(DEL))
 &kp LCTRL   &kp F9  &kp F10  &kp F11       &kp F12  &trans       &kp LC(C)      &kp LC(V)  &trans         &trans         &trans  &trans
                              &kp LEFT_GUI  &trans   &kp SPACE    &kp BACKSPACE  &trans     &kp RIGHT_ALT
